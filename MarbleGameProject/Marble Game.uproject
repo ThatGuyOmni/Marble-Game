@@ -10,14 +10,6 @@
 			"TargetAllowList": [
 				"Editor"
 			]
-		},
-		{
-			"Name": "HoudiniEngine",
-			"Enabled": true
-		},
-		{
-			"Name": "SERIALCOM",
-			"Enabled": true
 		}
 	]
 }
